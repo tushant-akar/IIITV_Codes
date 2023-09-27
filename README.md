@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @tushant-akar
 - 👀 I’m interested in Coding especially those related to ML & AI.
-- 🌱 I’m currently learning C/C++ and Python.
+- 🌱 I’m currently learning Android Development and ML/AI.
